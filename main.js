@@ -32,4 +32,5 @@ while (true) {
         default:
             alert("Esto no es una opción valida");
     }
+    break;
 }
